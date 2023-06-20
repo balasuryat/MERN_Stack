@@ -1,0 +1,77 @@
+__DBMS__
+
+=> Data Base Management System
+
+=> Database Components 
+    Hardware 
+    Software
+_____________________________________________________________________________________________________________________
+
+=> Database Architecture
+    Single tier architecture
+    Two tier architecture
+    Three tier architecture
+=> Types :
+=> Single tier architecture
+    Intraction between client and server only
+=> Two tier architecture
+    Server = Database System
+    Client = User and Application
+=> Three tier architecture
+    Database tier <=> Application tier <=> Presentation tier
+_____________________________________________________________________________________________________________________
+
+=> Types of database
+    Distributed Database = One table can be accesses by anyone.
+    Centralization Database = N number of tables can be accessed by anyone.
+    Relational Database = Structured way of data.
+    Graph Database = Network database, Hierarchy database(Tree structured database).
+    NoSQL Database = Unstructured way of data.
+    Cloud Database = High storage, Online Database storage.
+_____________________________________________________________________________________________________________________
+
+=> Components of a database management system.
+    Configuring authentication and authorization
+    Providing data backups and snapshos
+    Storage engines
+    Query languages
+    Language engines
+    Meta data 
+    Log manupulation
+_____________________________________________________________________________________________________________________
+
+=> Model the data
+    ER model = pictoria representation
+               Structural database
+               Real world object-Entity
+               Through SQL
+
+    Object Based model = OOPS concept(ploymorpish,encapsulation,..)
+                         Create a class instance automatically
+                         Unstructured format
+          
+    Semistructured model = MongoDB
+_____________________________________________________________________________________________________________________
+
+=> Data defination language = Create 
+                               Alter 
+                               Drop
+                               Truncate 
+
+=> Data manupulation language = Insert 
+                                 Update 
+                                 Delete 
+
+=> Data control language = Grand 
+                            Revoke
+
+=> Transtration control language = Commite
+                                    Rollback 
+                                    Save point
+
+=> Data query language = Select
+_____________________________________________________________________________________________________________________
+
+=> Server
+    It recieves the clintes request and respond to it.
+_____________________________________________________________________________________________________________________
